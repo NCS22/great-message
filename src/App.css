@@ -1,0 +1,24 @@
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  
+  /* Background colors */
+  --background-primary: #f7d7f5; 
+
+  /* Text colors */
+  --text-primary: #000000; 
+
+  /* Complements colors */
+  --complement-primary: #BBDEFB; 
+}
+
+body {
+  padding: 20px; 
+  background-color: var(--background-primary);
+  color: var(--text-primary); 
+  text-align: center;
+}
