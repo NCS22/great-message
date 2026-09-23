@@ -1,0 +1,20 @@
+{
+    "id": "light", 
+    "name": "Light Theme", 
+    "colors": {
+        "background-primary": "#FAF8F6", 
+        "background-secondary": "#EFF3FA", 
+        "background-complementary": "#FDEEF3", 
+        "text-primary": "#3B3A45", 
+        "text-secondary": "#6E6C7B",
+        "text-complementary": "#A6A4B3", 
+        "button-primary": "#8FB8DE", 
+        "button-secondary": "#EDA9C0", 
+        "button-primary-hover": "#7BA8D1", 
+        "button-secondary-hover": "#E290AE",
+        "button-primary-focus": "#C9E0F5",
+        "button-secondary-focus": "#F7D9E4"
+
+    }
+}
+

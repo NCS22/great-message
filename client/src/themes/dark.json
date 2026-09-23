@@ -1,0 +1,19 @@
+{
+    "id": "dark", 
+    "name": "Dark Theme", 
+    "colors": {
+        "background-primary": "#1B1D26", 
+        "background-secondary": "#22252F", 
+        "background-complementary": "#2D2438", 
+        "text-primary": "#ECEAF2", 
+        "text-secondary": "#B7B4C4",
+        "text-complementary": "#7D7A8C", 
+        "button-primary": "#56728F", 
+        "button-secondary": "#8A5B6E", 
+        "button-primary-hover": "#648099", 
+        "button-secondary-hover": "#9A6A7E",
+        "button-primary-focus": "#8FB2D4",
+        "button-secondary-focus": "#C98CA3"
+
+    }
+}
